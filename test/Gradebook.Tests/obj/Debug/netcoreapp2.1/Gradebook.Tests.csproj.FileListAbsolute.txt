@@ -1,0 +1,17 @@
+C:\Users\mensinkja\Documents\Coding Practice\gradebook\test\Gradebook.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\mensinkja\Documents\Coding Practice\gradebook\test\Gradebook.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\mensinkja\Documents\Coding Practice\gradebook\test\Gradebook.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\mensinkja\Documents\Coding Practice\gradebook\test\Gradebook.Tests\bin\Debug\netcoreapp2.1\Gradebook.Tests.deps.json
+C:\Users\mensinkja\Documents\Coding Practice\gradebook\test\Gradebook.Tests\bin\Debug\netcoreapp2.1\Gradebook.Tests.runtimeconfig.json
+C:\Users\mensinkja\Documents\Coding Practice\gradebook\test\Gradebook.Tests\bin\Debug\netcoreapp2.1\Gradebook.Tests.runtimeconfig.dev.json
+C:\Users\mensinkja\Documents\Coding Practice\gradebook\test\Gradebook.Tests\bin\Debug\netcoreapp2.1\Gradebook.Tests.dll
+C:\Users\mensinkja\Documents\Coding Practice\gradebook\test\Gradebook.Tests\bin\Debug\netcoreapp2.1\Gradebook.Tests.pdb
+C:\Users\mensinkja\Documents\Coding Practice\gradebook\test\Gradebook.Tests\obj\Debug\netcoreapp2.1\Gradebook.Tests.csprojAssemblyReference.cache
+C:\Users\mensinkja\Documents\Coding Practice\gradebook\test\Gradebook.Tests\obj\Debug\netcoreapp2.1\Gradebook.Tests.csproj.CoreCompileInputs.cache
+C:\Users\mensinkja\Documents\Coding Practice\gradebook\test\Gradebook.Tests\obj\Debug\netcoreapp2.1\Gradebook.Tests.AssemblyInfoInputs.cache
+C:\Users\mensinkja\Documents\Coding Practice\gradebook\test\Gradebook.Tests\obj\Debug\netcoreapp2.1\Gradebook.Tests.AssemblyInfo.cs
+C:\Users\mensinkja\Documents\Coding Practice\gradebook\test\Gradebook.Tests\obj\Debug\netcoreapp2.1\Gradebook.Tests.dll
+C:\Users\mensinkja\Documents\Coding Practice\gradebook\test\Gradebook.Tests\obj\Debug\netcoreapp2.1\Gradebook.Tests.pdb
+C:\Users\mensinkja\Documents\Coding Practice\gradebook\test\Gradebook.Tests\bin\Debug\netcoreapp2.1\Gradebook.dll
+C:\Users\mensinkja\Documents\Coding Practice\gradebook\test\Gradebook.Tests\bin\Debug\netcoreapp2.1\Gradebook.pdb
+C:\Users\mensinkja\Documents\Coding Practice\gradebook\test\Gradebook.Tests\obj\Debug\netcoreapp2.1\Gradebook.Tests.csproj.CopyComplete
