@@ -8,6 +8,40 @@ namespace Gradebook.Tests
 
     {
         [Fact]
+        public void Test1()
+        {
+            var x = GetInt();
+            SetInt(ref x);
+
+            Assert.Equal(42,x);
+
+
+        }
+        [Fact]
+        public void StringsBehaveLikeValueTypes()
+        {
+            string name = "Josh";
+            var upper = MakeUpperCase(name);
+
+            Assert.Equal("JOSH",upper);
+        }
+
+        private string MakeUpperCase(string name)
+        {
+            return name.ToUpper();
+        }
+
+        private void SetInt(ref Int32 x)
+        {
+            x = 42;
+        }
+
+        private int GetInt()
+        {
+            return 3;
+        }
+
+        [Fact]
         public void CSharpCanPassByRef()
         {
             // Arrange
